@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/add_subtract.dir/link.d CMakeFiles/add_subtract.dir/main.cpp.o -o add_subtract

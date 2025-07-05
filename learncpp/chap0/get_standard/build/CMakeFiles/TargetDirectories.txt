@@ -1,0 +1,3 @@
+/home/caillin/Documents/repos/learncpp/learncpp/chap0/get_standard/build/CMakeFiles/getstandard.dir
+/home/caillin/Documents/repos/learncpp/learncpp/chap0/get_standard/build/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/learncpp/learncpp/chap0/get_standard/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/caillin/Documents/repos/learncpp/learncpp/chap1/initialization_test/build/CMakeFiles/initialization_test.dir
+/home/caillin/Documents/repos/learncpp/learncpp/chap1/initialization_test/build/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/learncpp/learncpp/chap1/initialization_test/build/CMakeFiles/rebuild_cache.dir

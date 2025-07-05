@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/getstandard.dir/link.d CMakeFiles/getstandard.dir/main.cpp.o -o getstandard
