@@ -1,0 +1,26 @@
+function: a collection of statements to be executed in order, with a name, function body, parameters and return type
+output: the result of a function or program
+compiler: a program which turns source code into machine-readable object files
+error: behaviour of a program that is not desired
+linker: a program which joins different object files into an executable
+command line: the terminal where programs can be ran
+executable: a program which is composed of one or more object files and can be executed
+object code: machine-readble code
+comment: text that is ignored by the compiler, used to explain what the code should be doing
+import: make modules available
+library: code outside of this program that we access in this one
+module: a collection of code to be used elsewhere
+bug: an error in the logic of the source code that causes an error
+main(): the entry point to C++ programs
+C++: a low level programming language
+IDE: sofware to aid in software development usually with features such as text highlighting and code compiling
+source code: human-readable instructions that are translated into object files by the compiler
+statement: a single instruction
+#include: include the definitions of a header file in this source code
+debugging: removing bugs from the source code
+<<: chevron to pipe input into cout
+header file: a collection of definitions to be used elsewhere with includes
+program: the whole source code to complete a task
+compile-time: the time in which compilation is happening
+cout: the character output stream
+std: the standard library
