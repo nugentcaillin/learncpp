@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.31.5...3.31.5)
+project(miles_to_km)
+add_executable(miles_to_km main.cpp)
+add_compile_options(-Wall -Weffc++ -Wextra -Wconversion -Werror)
+set_property(TARGET miles_to_km PROPERTY CXX_STANDARD 20)

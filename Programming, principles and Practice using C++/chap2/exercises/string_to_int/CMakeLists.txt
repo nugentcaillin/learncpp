@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.31.5...3.31.5)
+project(string_to_int)
+add_executable(string_to_int main.cpp)
+add_compile_options(-Wall -Weffc++ -Wextra -Wconversion -Werror)
+set_property(TARGET string_to_int PROPERTY CXX_STANDARD 20)

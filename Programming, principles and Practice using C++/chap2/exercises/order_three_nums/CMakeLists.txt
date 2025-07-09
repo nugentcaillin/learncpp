@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.31.5...3.31.5)
+project(order_three_nums)
+add_executable(order_three_nums main.cpp)
+add_compile_options(-Wall -Weffc++ -Wextra -Wconversion -Werror)
+set_property(TARGET order_three_nums PROPERTY CXX_STANDARD 20)

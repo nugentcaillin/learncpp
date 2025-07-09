@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/string_to_int.dir/link.d CMakeFiles/string_to_int.dir/main.cpp.o -o string_to_int

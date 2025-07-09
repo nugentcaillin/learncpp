@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/num_info.dir/link.d CMakeFiles/num_info.dir/main.cpp.o -o num_info

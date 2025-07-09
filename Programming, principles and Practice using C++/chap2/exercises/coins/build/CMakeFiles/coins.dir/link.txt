@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/coins.dir/link.d CMakeFiles/coins.dir/main.cpp.o -o coins

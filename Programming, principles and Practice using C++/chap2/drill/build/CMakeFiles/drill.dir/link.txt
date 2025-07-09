@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/drill.dir/link.d CMakeFiles/drill.dir/main.cpp.o -o drill

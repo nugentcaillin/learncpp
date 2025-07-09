@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.31.5...3.31.5)
+project(invalid_names)
+add_executable(invalid_names main.cpp)
+add_compile_options(-Wall -Weffc++ -Wextra -Wconversion -Werror)
+set_property(TARGET invalid_names PROPERTY CXX_STANDARD 20)

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/invalid_names.dir/link.d CMakeFiles/invalid_names.dir/main.cpp.o -o invalid_names

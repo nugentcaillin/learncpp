@@ -1,0 +1,3 @@
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/narrowing_conversions/build/CMakeFiles/narrowing_conversions.dir
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/narrowing_conversions/build/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/narrowing_conversions/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/basic_math/build/CMakeFiles/basic_math.dir
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/basic_math/build/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/basic_math/build/CMakeFiles/rebuild_cache.dir

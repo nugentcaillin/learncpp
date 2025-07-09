@@ -1,0 +1,46 @@
+1 - asking the user to take an action
+2 - >>
+3 - direct list, parenthisis, assignment
+4 - 
+int num {};
+std::cout << "Please enter a number: ";
+std::cin >> num;
+5 - newline character, it ends the line and starts a new one
+6 - whitespace
+7 - non numeric characters
+8 - std::cout << "Hello, " << first_name << "!\n";
+9 - region of memory with a type
+10 - values that don't have an object
+11 - integer, floating point, char, string, boolean
+12 - a named object
+13 - 1 byte for char, 4 for int, 8 for double
+14 - bytes
+15 - = is assignment, == is equality
+16 - definition introduces a new variable
+17 - initialization gives a value upon definition, it differs from assignment because it can only be done once, and does not have a previous value to remove
+18 - joins two strings, done with +
+19 - + - / * = ++, --, %, +=, -=, *=, /=, %=, >>, <<, ==, !=, >, <, <=, >=
+20 - 
+Legal: 		This_little_pig
+		_this_is_ok
+		MineMineMine
+		number
+		
+
+Illegal:	This_1_is fine (space)
+		2_For_1_special (starts with num), 
+		latest thing (space)
+		George@home (@)
+		correct? (?)
+		stroustrup.com (.)
+		$PATH ($)
+21 - 	very short eg. x, not descriptive, starting with underscore (system fns), use of 
+	standard function names, abbreviations/acronyms
+22 - short and descriptive, underscores to separate
+23 - when all objects are used only according to the rules of their type
+24 - information is lost (decimal is truncated)
+25 - if the conversion is smaller (narrowing) it is unsafe
+26 - brace initialization
+27 - to infer type from initialization
+24 - 
+

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.31.5...3.31.5)
+project(name_and_age)
+add_executable(name_and_age main.cpp)
+add_compile_options(-Wall -Weffc++ -Wextra -Wconversion -Werror)
+set_property(TARGET name_and_age PROPERTY CXX_STANDARD 20)

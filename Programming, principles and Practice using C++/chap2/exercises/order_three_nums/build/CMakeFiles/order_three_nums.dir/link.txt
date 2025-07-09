@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/order_three_nums.dir/link.d CMakeFiles/order_three_nums.dir/main.cpp.o -o order_three_nums

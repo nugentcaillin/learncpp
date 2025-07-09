@@ -1,0 +1,3 @@
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/exercises/order_three_strings/build/CMakeFiles/order_three_strings.dir
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/exercises/order_three_strings/build/CMakeFiles/edit_cache.dir
+/home/caillin/Documents/repos/learncpp/Programming, principles and Practice using C++/chap2/exercises/order_three_strings/build/CMakeFiles/rebuild_cache.dir
